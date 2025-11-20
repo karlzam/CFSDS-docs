@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+CFSDS Read the Docs
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://cfsds-docs.readthedocs.io/en/latest/index.html
