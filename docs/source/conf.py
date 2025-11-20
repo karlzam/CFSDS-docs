@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CFSDS'
+copyright = '2025, NRCan'
+author = 'NRCan'
 
 release = '0.1'
 version = '0.1.0'
