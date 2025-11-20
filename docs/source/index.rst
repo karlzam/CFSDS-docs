@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to the CFSDS documentation page!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **Canadian Fire Spread Dataset (CFSDS)** is an event-based fire growth database built on the
+combination of high-precision fire event boundaries and multi-sensor active fire detections.
+
+Paper link: `The Canadian Fire Spread Dataset Nature <https://www.nature.com/articles/s41597-024-03436-4/>`_
+
+Data repository: `Open Science Framework Dataset <https://osf.io/f48ry/overview>`_
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
