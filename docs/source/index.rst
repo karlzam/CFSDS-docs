@@ -78,3 +78,4 @@ Contents
 
    usage
    api
+   kriging
